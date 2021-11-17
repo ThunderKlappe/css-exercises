@@ -1,0 +1,16 @@
+.main-class{
+    background-color: rgb(253, 163, 163);
+    font-family: verdana, sans-serif;
+}
+#first-id{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+.cool-class{
+    font-size: 24px;
+}
+#second-id{
+    background-color: rgb(140, 214, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
